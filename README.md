@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Ai & ML & DL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.facebook.com/mahmod.elbaz.3 - Mahotiger20000@yahoo.com - +201141832683
+- 📫 How to reach me https://www.facebook.com/mahmod.elbaz.3 - Mahotiger20000@gmail.com - +201141832683
 
 <!---
 MahmoudElbaz74/MahmoudElbaz74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
