@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahmoudElbaz74
-- 👀 I’m interested in programming
+- 👀 I’m interested in Data Scince
 - 🌱 I’m currently learning Ai & ML & DL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to a Jop in Data Science Field
 - 📫 How to reach me MBazofficial@gmail.com - +201141832683
 
 <!---
